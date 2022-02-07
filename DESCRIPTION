@@ -1,0 +1,15 @@
+Package: randomnames
+Title: Generate Random Names from US Census
+Version: 0.0.0.9000
+Authors@R: 
+    person("Robert", "Zamora", , "zamora.rr@gmail.com", role = c("aut", "cre"))
+Description: Generate random names from US Census. The first names are
+    from 1880-2020. The last names are from 2010.
+License: CC0
+Depends: 
+    R (>= 2.10)
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: gzip
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
